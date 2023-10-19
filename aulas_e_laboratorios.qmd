@@ -1,0 +1,37 @@
+---
+title: "Aulas e laboratórios"
+lang: pt-br
+---
+
+Abaixo, estão listados os links de acesso aos slides, códigos dos slides,
+scripts em R e gravações das aulas e laboratórios relacionados a cada
+tópico do curso.
+Algumas aulas também possuem links de download para dados que podem ser
+usados para fins didáticos^[Caso ocorra uma interrupção no acesso aos links
+fornecidos, é possível obter os dados
+[diretamente por meio do repositório no GitHub](https://github.com/brunomontezano/r-workshop-intermediario/tree/main/slides/dados).].
+Fique à vontade para explorá-los!
+Eles podem ser uma ótima ferramenta de apoio durante o aprendizado.
+Os materiais descritos nesta página são mantidos pelo autor Bruno Montezano.
+
+## Aula 1: Limpeza e organização de dados
+
+* [Slides]()
+* [Código dos slides]()
+* [Script em R]()
+  
+## Aula 2: Texto
+
+* [Slides]()
+* [Código dos slides]()
+* [Script em R]()
+
+## Aula 3: Datas
+
+## Aula 4: Fatores
+
+## Aula 5: Controle de fluxo
+
+## Aula 6: Programação funcional
+
+## Aula 7: Metaprogramação

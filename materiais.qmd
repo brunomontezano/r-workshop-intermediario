@@ -1,0 +1,18 @@
+---
+title: "Materiais recomendados"
+lang: pt-br
+---
+
+Nesta página, você encontra alguns materiais complementares
+que podem te auxiliar no processo de aprendizagem dos conceitos
+apresentados no decorrer do curso. Os temas
+estão divididos nas seguintes seções:
+*strings*, datas e programação funcional.
+Todos os materiais são de acesso aberto sem custo algum.
+A lista abaixo é mantida pelo autor Bruno Montezano.
+
+## *Strings*
+
+## Datas
+
+## Programação funcional

@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "materiais.html",
+    "href": "materiais.html",
+    "title": "Materiais recomendados",
+    "section": "",
+    "text": "Nesta página, você encontra alguns materiais complementares que podem te auxiliar no processo de aprendizagem dos conceitos apresentados no decorrer do curso. Os temas estão divididos nas seguintes seções: strings, datas e programação funcional. Todos os materiais são de acesso aberto sem custo algum. A lista abaixo é mantida pelo autor Bruno Montezano."
+  },
+  {
+    "objectID": "materiais.html#strings",
+    "href": "materiais.html#strings",
+    "title": "Materiais recomendados",
+    "section": "Strings",
+    "text": "Strings"
+  },
+  {
+    "objectID": "materiais.html#datas",
+    "href": "materiais.html#datas",
+    "title": "Materiais recomendados",
+    "section": "Datas",
+    "text": "Datas"
+  },
+  {
+    "objectID": "materiais.html#programação-funcional",
+    "href": "materiais.html#programação-funcional",
+    "title": "Materiais recomendados",
+    "section": "Programação funcional",
+    "text": "Programação funcional"
+  },
+  {
+    "objectID": "aulas_e_laboratorios.html",
+    "href": "aulas_e_laboratorios.html",
+    "title": "Aulas e laboratórios",
+    "section": "",
+    "text": "Abaixo, estão listados os links de acesso aos slides, códigos dos slides, scripts em R e gravações das aulas e laboratórios relacionados a cada tópico do curso. Algumas aulas também possuem links de download para dados que podem ser usados para fins didáticos1. Fique à vontade para explorá-los! Eles podem ser uma ótima ferramenta de apoio durante o aprendizado. Os materiais descritos nesta página são mantidos pelo autor Bruno Montezano."
+  },
+  {
+    "objectID": "aulas_e_laboratorios.html#aula-1-limpeza-e-organização-de-dados",
+    "href": "aulas_e_laboratorios.html#aula-1-limpeza-e-organização-de-dados",
+    "title": "Aulas e laboratórios",
+    "section": "Aula 1: Limpeza e organização de dados",
+    "text": "Aula 1: Limpeza e organização de dados\n\nSlides\nCódigo dos slides\nScript em R"
+  },
+  {
+    "objectID": "aulas_e_laboratorios.html#aula-2-texto",
+    "href": "aulas_e_laboratorios.html#aula-2-texto",
+    "title": "Aulas e laboratórios",
+    "section": "Aula 2: Texto",
+    "text": "Aula 2: Texto\n\nSlides\nCódigo dos slides\nScript em R"
+  },
+  {
+    "objectID": "aulas_e_laboratorios.html#aula-3-datas",
+    "href": "aulas_e_laboratorios.html#aula-3-datas",
+    "title": "Aulas e laboratórios",
+    "section": "Aula 3: Datas",
+    "text": "Aula 3: Datas"
+  },
+  {
+    "objectID": "aulas_e_laboratorios.html#aula-4-fatores",
+    "href": "aulas_e_laboratorios.html#aula-4-fatores",
+    "title": "Aulas e laboratórios",
+    "section": "Aula 4: Fatores",
+    "text": "Aula 4: Fatores"
+  },
+  {
+    "objectID": "aulas_e_laboratorios.html#aula-5-controle-de-fluxo",
+    "href": "aulas_e_laboratorios.html#aula-5-controle-de-fluxo",
+    "title": "Aulas e laboratórios",
+    "section": "Aula 5: Controle de fluxo",
+    "text": "Aula 5: Controle de fluxo"
+  },
+  {
+    "objectID": "aulas_e_laboratorios.html#aula-6-programação-funcional",
+    "href": "aulas_e_laboratorios.html#aula-6-programação-funcional",
+    "title": "Aulas e laboratórios",
+    "section": "Aula 6: Programação funcional",
+    "text": "Aula 6: Programação funcional"
+  },
+  {
+    "objectID": "aulas_e_laboratorios.html#aula-7-metaprogramação",
+    "href": "aulas_e_laboratorios.html#aula-7-metaprogramação",
+    "title": "Aulas e laboratórios",
+    "section": "Aula 7: Metaprogramação",
+    "text": "Aula 7: Metaprogramação"
+  },
+  {
+    "objectID": "aulas_e_laboratorios.html#footnotes",
+    "href": "aulas_e_laboratorios.html#footnotes",
+    "title": "Aulas e laboratórios",
+    "section": "Notas de rodapé",
+    "text": "Notas de rodapé\n\n\nCaso ocorra uma interrupção no acesso aos links fornecidos, é possível obter os dados diretamente por meio do repositório no GitHub.↩︎"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "R Intermediário",
+    "section": "",
+    "text": "Bem-vindos ao Curso de R Intermediário que iniciei a construir no mês de outubro de 2023. Neste curso, você irá aprender conceitos que permeiam a manipulação de dados em R para além do arsenal básico repassado no primeiro curso de R que disponibilizo. O curso irá fazer uso de aulas expositivas, juntamente de laboratórios para revisão e exemplificação dos conceitos estudados em aula. No site, você poderá acessar materiais complementares recomendados pelo professor, além dos slides, códigos e gravações das aulas. Neste curso, assumo que você já tenha certo domínio de conceitos introdutórios de R e destreza no uso das principais funções do pacote dplyr."
+  },
+  {
+    "objectID": "index.html#links-relevantes",
+    "href": "index.html#links-relevantes",
+    "title": "R Intermediário",
+    "section": "Links relevantes",
+    "text": "Links relevantes\n\nEmail para dúvidas\nInstalação do R e RStudio\nComo habilitar compilação de pacotes"
+  }
+]

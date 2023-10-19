@@ -1,11 +1,47 @@
 ---
-title: "r-workshop-intermediario"
+title: "R Intermediário"
+subtitle: "Aplicações em ciências da saúde"
+author: "Bruno Montezano"
+description: "Curso voltado para desenvolvimento de habilidades de manipulação avançada de dados em R para pesquisadores da área da saúde"
+date: last-modified
+image: assets/r_logo.png
+lang: pt-br
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: ORCiD
+      href: https://orcid.org/0000-0002-4627-1776
+    - text: Lattes CV
+      href: https://lattes.cnpq.br/5680118320056968
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/bmontezano/
+    - text: GitHub
+      href: https://github.com/brunomontezano
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<div style="text-align: justify">
+Bem-vindos ao Curso de R Intermediário que iniciei a construir no mês de
+outubro de 2023.
+Neste curso, você irá aprender conceitos que permeiam a manipulação
+de dados em R para além do arsenal básico repassado no [primeiro curso
+de R que disponibilizo](https://brunomontezano.github.io/r-workshop/).
+O curso irá fazer uso de aulas expositivas, juntamente de laboratórios
+para revisão e exemplificação dos conceitos estudados em aula.
+No site, você poderá acessar
+[materiais complementares](materiais.html)
+recomendados pelo professor, além dos
+[slides, códigos e gravações](aulas_e_laboratorios.html)
+das aulas.
+Neste curso, assumo que você já tenha certo domínio de conceitos 
+introdutórios de R e destreza no uso das principais funções do pacote
+`dplyr`.
+</div>
 
-```{r}
-1 + 1
-```
+## Links relevantes
+
+* [Email para dúvidas](mailto:brunodoyt@gmail.com)
+* [Instalação do R e RStudio](https://brunomontezano.github.io/r-workshop/instalacao.html)
+* [Como habilitar compilação de pacotes](https://brunomontezano.github.io/r-workshop/compilacao.html)
